@@ -20,3 +20,7 @@ If you have any Uncopylocked games you want to share submit a pull request
 [**Typewriter Open Sourced**](https://www.roblox.com/games/5933460721/Typewriter-Open-Sourced)
 <br>Description: One word at a type effect.
 <br>Credit: [Constride on devforum](https://devforum.roblox.com/t/typewriter-effect/861316)
+
+[""MatchmakingService**](https://www.roblox.com/games/7563843268/MatchmakingService)
+<br>Description: for making games with any sort of matchmaking.
+<br>[Read more here](https://devforum.roblox.com/t/v210-matchmakingservice/1483736)
