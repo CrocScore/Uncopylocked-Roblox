@@ -17,3 +17,6 @@ If you have any Uncopylocked games you want to share submit a pull request
 <br>Description: For music transitions bases on what area you are going to.
 <br>Credit: [RuizuKun_Dev on devforum](https://devforum.roblox.com/t/area-music-player-script-open-source/656954)
 
+[**Typewriter Open Sourced**](https://www.roblox.com/games/5933460721/Typewriter-Open-Sourced)
+<br>Description: One word at a type effect.
+<br>Credit: [Constride on devforum](https://devforum.roblox.com/t/typewriter-effect/861316)
